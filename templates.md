@@ -6,3 +6,5 @@ Used to learn any Python concept clearly.
 [CONTEXT]: I'm new to it.
 [EXAMPLES]: Analogy + code snippet.
 [OUTPUT FORMAT]: numbered list + code block.
+[CLARIFY BEFORE ANSWERING: Ask me 3 questions if needed.]
+
